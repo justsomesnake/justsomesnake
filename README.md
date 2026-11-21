@@ -34,4 +34,4 @@ in-game overlays and fixes for things a game never got, or lost over the years. 
 
 Everything here stays free. If one of these helped you, a coffee keeps me building – thank you!
 
-<a href="https://ko-fi.com/mythenstudios"><img alt="Support on Ko-fi" src="https://raw.githubusercontent.com/justsomesnake/ACP-Reloaded/main/branding/graphics/acp-reloaded_kofi_2x.png" height="40"></a>
+<a href="https://ko-fi.com/mythenstudios"><img alt="Support on Ko-fi" src="https://raw.githubusercontent.com/mythenstudios/TR2013-HUD-Fix-Plus/main/branding/graphics/kofi-dark-2x.png" height="40"></a>
