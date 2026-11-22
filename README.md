@@ -1,6 +1,6 @@
 ## Hi, I'm SN4K3
 
-Hobby modder from **Mythen Studios**. In my spare time I build small, clean fixes and tools for PC games I like –
+Hobby modder from **Mythen Studios**. In my spare time I build small, fixes and tools for PC games I like –
 in-game overlays and fixes for things a game never got, or lost over the years. Free and open source.
 
 ### Projects
